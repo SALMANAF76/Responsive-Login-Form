@@ -17,6 +17,9 @@ Form ini dirancang untuk mudah digunakan, mobile-friendly, dan memiliki tampilan
 - Buka file index.html di browser favoritmu.
 - Form akan tampil dan responsif di berbagai ukuran layar.
 
+## Link Live
+Gunakan link ini: https://salmanaf76.github.io/Responsive-Login-Form/
+
 ## Screenshot
 
 ![Login Form Screenshot](Screenshot-Login-Form.png)
