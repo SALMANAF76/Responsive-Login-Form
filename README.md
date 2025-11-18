@@ -1,6 +1,6 @@
 # Responsive Login Form
 
-Project ini adalah contoh Responsive Login Form sederhana menggunakan HTML dan CSS.
+Membuat Responsive Login Form sederhana menggunakan HTML dan CSS.
 Form ini dirancang untuk mudah digunakan, mobile-friendly, dan memiliki tampilan modern.
 
 ## Fitur
